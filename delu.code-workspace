@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../Delu/Java"
+		},
+		{
+			"path": "../../Delu/Python"
 		}
 	],
 	"settings": {}
